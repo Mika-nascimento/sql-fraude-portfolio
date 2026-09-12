@@ -6,7 +6,7 @@ join, agregação, CTE, window function e subquery.
 
 O contexto de negócio é inspirado na minha atuação como Analista de
 Prevenção à Fraude em uma fintech. Os dados aqui são **100% sintéticos**,
-gerados aleatoriamente — nenhuma informação real, confidencial ou de
+gerados aleatoriamente , nenhuma informação real, confidencial ou de
 cliente é usada.
 
 ## Estrutura
@@ -53,5 +53,5 @@ separadamente.
 
 Trabalho todos os dias com investigação de alertas e decisão de risco
 baseada em evidência. Esse projeto recria, com dados fictícios, o tipo de
-pergunta que eu resolvo no dia a dia — só que aqui, do início ao fim, incluindo
+pergunta que eu resolvo no dia a dia , só que aqui, do início ao fim, incluindo
 a modelagem dos dados e a escrita das consultas.
