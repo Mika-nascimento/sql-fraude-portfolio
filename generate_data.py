@@ -3,7 +3,7 @@ generate_data.py
 
 Gera um banco SQLite com dados SINTÉTICOS (fictícios) de contas, transações
 e alertas de fraude, no estilo de um ambiente de meios de pagamento (Pix,
-P2P, Boleto, IPVA). Nenhum dado real ou confidencial é usado aqui — tudo é
+P2P, Boleto, IPVA). Nenhum dado real ou confidencial é usado aqui , tudo é
 gerado aleatoriamente para fins de portfólio.
 
 Uso:
